@@ -3,7 +3,13 @@ import s from './Hero.module.scss'
 
 const Hero = () => {
   return (
-    <div>Hero</div>
+    <>
+    <section className={s.section}>
+      <div className="container">
+        
+      </div>
+    </section>
+    </>
   )
 }
 
